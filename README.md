@@ -1,4 +1,3 @@
-
 # Chome (neighbourhood) level boundary polygon, Japan 2015
 This data is re-distribution of [eStat](https://www.e-stat.go.jp/SG1/estat/eStatTopPortal.do) boundary polygon.
 
@@ -33,7 +32,4 @@ You can check the boundary changes at 国土地理協会.
 
 * [Changes on municipality level](http://kokudo.or.jp/marge/index.html)
 * [Changes on Chome level](http://kokudo.or.jp/place/past.html)
-
-
-
 
