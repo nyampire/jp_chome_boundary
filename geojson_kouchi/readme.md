@@ -1,0 +1,1 @@
+geojson kouchi precision test
