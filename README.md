@@ -7,19 +7,20 @@ Original data is distributed under [Government of Japan Standard Terms of Use](h
 CC0
 
 # Structure of Column/Attribute table 
-You can check them in "カラム定義" PDF file. (written in Japanese)
+You can check them in "Attribute_table.pdf" file. (written in Japanese)
 
 # Meta data & Notes
 ## Shapefiles
 * EPSG: 4612
 * Encoding: Shift-JIS
 
-## GeoJSON
+## TopoJSON
 * EPSG: WGS84
 * Encoding: UTF-8
+* See README.md in TopoJSON directory
 
 ## Data Quality
-Positioning accuracy is not clear.
+Positioning accuracy is unknown.
 
 You have to be careful at boundary on water area (e.g. sea, lake).
 
@@ -30,7 +31,7 @@ The boundary is NOT along coastline.
 ## Modification since 2015
 This statistics are collected at 2015.
 
-You can check the boundary changes at 国土地理協会.
+You can check the boundary changes at 国土地理協会 page.
 
 * [Changes on municipality level](http://kokudo.or.jp/marge/index.html)
 * [Changes on Chome level](http://kokudo.or.jp/place/past.html)
