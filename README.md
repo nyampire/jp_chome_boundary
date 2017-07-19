@@ -15,7 +15,7 @@ You can check them in "Attribute_table.pdf" file. (written in Japanese)
 * Encoding: Shift-JIS
 
 ## TopoJSON
-* EPSG: WGS84
+* EPSG: 4326 (WGS84)
 * Encoding: UTF-8
 * See README.md in TopoJSON directory
 
