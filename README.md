@@ -20,7 +20,7 @@ You can check them in "Attribute_table.pdf" file. (written in Japanese)
 * See README.md in TopoJSON directory
 
 ## Data Quality
-Positioning accuracy is unknown.
+Positionial accuracy is unknown.
 
 You have to be careful at boundary on water area (e.g. sea, lake).
 
